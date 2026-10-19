@@ -1,0 +1,13 @@
+QPUSH myqueue second
+QPUSH myqueue third
+SPUSH mystack item1
+SPUSH mystack item2
+LPUSH mydll back 0
+LPUSH mydll back 1
+TINSERT mytree 5
+TINSERT mytree 10
+TINSERT mytree 20
+FPUSH mylist back A
+FPUSH mylist back Y
+MPUSH myarr world
+MPUSH myarr hello
